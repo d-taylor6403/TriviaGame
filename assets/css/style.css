@@ -5,8 +5,8 @@
 	color: black;
   text-align: center;
   margin: 10px auto;
-  font-size: 20px;
-  background-color: white;
+  font-size: 30px;
+  background-color: #be1ef6;
 
 }
 
@@ -27,6 +27,7 @@ img {
 
 #reset {
   visibility: visible;
+  bottom: -90px;
 }
 
 body {
@@ -37,17 +38,18 @@ body {
 
 h1 {
   text-align: center;
-  color: white;
+  color: #be1ef6;
+  -webkit-text-stroke: 1px white;
   font-weight: bolder;
   padding: 20px;
-  font-size: 55px;
+  font-size: 70px;
 }
 
 p {
   margin: 10px;
   font-weight: bold;
   color:#be1ef6;
-  font-size: 20px;
+  font-size: 40px;
 }
 
 h2, h4 {
@@ -66,7 +68,7 @@ h2, h4 {
 
 .btn {
   position: relative;
-  bottom: -170px;
+  bottom: -250px;
   right: -30px;
   width: 95%;
   font-size: 45px;
